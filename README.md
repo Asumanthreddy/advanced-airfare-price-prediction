@@ -135,3 +135,7 @@ pandas
 scikit-learn
 streamlit
 matplotlib
+
+
+streamlit run airline_advance.py
+
